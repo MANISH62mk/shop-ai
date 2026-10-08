@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.log
+database/*.db*
+database/*.sqlite*
+.pytest_cache/
+.coverage
+.vscode/
